@@ -5,6 +5,7 @@
 #   output random number between and including 1 and user input
 #   add loop breaking option
 #   catch value error exception
+#   loop
 import random
 
 while True:
