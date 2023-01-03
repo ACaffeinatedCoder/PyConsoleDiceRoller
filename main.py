@@ -30,5 +30,5 @@ while True:
         else:
             break
     except ValueError:
-        print("You made an invalid input. Please try again.")
+        print("You made an invalid input. The sides input must only be numerical characters. Please try again.")
 print("Thank you for using the program.")
