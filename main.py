@@ -7,6 +7,7 @@
 #   catch value error exception
 #   loop
 import random
+# update sample
 
 while True:
     try:
